@@ -1,0 +1,30 @@
+[
+  {
+    "DNI": "11111111",
+    "Nombre": "Name1",
+    "Apellido": "LasnName1",
+    "Curso": "Programación V",
+    "Año": "2020"
+  },
+  {
+    "DNI": "22222222",
+    "Nombre": "Name2",
+    "Apellido": "LasnName2",
+    "Curso": "Programación V",
+    "Año": "2020"
+  },
+  {
+    "DNI": "159789456",
+    "Nombre": "Ferdinand",
+    "Apellido": "Moon",
+    "Curso": "Programación XV",
+    "Año": "2022"
+  },
+  {
+    "DNI": "025834",
+    "Nombre": "Luna",
+    "Apellido": "Moon",
+    "Curso": "Programación XV",
+    "Año": "2021"
+  }
+]

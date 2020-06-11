@@ -1,0 +1,14 @@
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\bin\Debug\netcoreapp2.2\Api.Rest.deps.json
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\bin\Debug\netcoreapp2.2\Api.Rest.runtimeconfig.json
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\bin\Debug\netcoreapp2.2\Api.Rest.runtimeconfig.dev.json
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\bin\Debug\netcoreapp2.2\Api.Rest.dll
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.RazorAssemblyInfo.cache
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.RazorAssemblyInfo.cs
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.AssemblyInfo.cs
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.RazorTargetAssemblyInfo.cache
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\bin\Debug\netcoreapp2.2\Api.Rest.pdb
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.dll
+C:\Users\Fer\Desktop\Fernando Luna\Instituto Superior Nuestra Señora de La Paz\3ER AÑO LA PAZ\Api.Rest\Api.Rest\obj\Debug\netcoreapp2.2\Api.Rest.pdb
